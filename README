@@ -14,7 +14,7 @@ questions on the tryton-ar bug tracker, mailing list,
 wiki or IRC channel:
 
 *  http://tryton-ar.readthedocs.io
-*  http://bitbucket.org/tryton-ar/trytond-account_invoice_information_uom_sale_printery_budget
+*  http://github.com/tryton-ar/account_invoice_information_uom_sale_printery_budget
 *  http://groups.tryton.org
 *  http://wiki.tryton.org
 *  irc://irc.freenode.net/tryton
@@ -30,6 +30,6 @@ Copyright
 See COPYRIGHT
 
 
-For more information please visit the NaN·tic web site:
+For more information please visit the web site:
 
   http://www.tryton.org.ar
